@@ -1,0 +1,2 @@
+pin A9: TX connect to TX of module RS485
+pin A10: RX connect to TX of module RS485
